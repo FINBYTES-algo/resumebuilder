@@ -1,6 +1,8 @@
 # ATS-Pro Resume Builder
 
-A modern, ATS-optimized resume builder built with React, TypeScript, and Vite. Create professional resumes with customizable templates, drag-and-drop section reordering, and AI-powered content enhancement.
+A modern, ATS-optimized resume builder built with React, TypeScript, and Vite. Create professional resumes with customizable templates, section reordering, and AI-powered content enhancement.
+
+🌐 **Live Demo**: [View on GitHub Pages](https://finbytes-algo.github.io/resumebuilder/)
 
 ## Features
 
